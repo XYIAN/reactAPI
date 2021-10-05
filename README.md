@@ -6,6 +6,12 @@
 
 #### Run Scripts: 
 
-* check dependencies 3a   
-* cd React/server 3b  
-* __npm run dev__ 3c  
+* check dependencies (npm install *)     
+* cd React/server  
+* __npm run dev__ 
+
+
+## Notes:
+* API ENDPOINT(workouts): https://6154c94e2473940017efafcc.mockapi.io/main/Workouts
+*  
+
