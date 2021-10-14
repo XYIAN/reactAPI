@@ -2,8 +2,8 @@
 ### mock node/react app that connects to mockapi.io  
 #### This folder contains multiple react apps created during my process of learning react. 
 
--[Project Board]()  
--[API](mockapi.io)  
+-[Project Board](https://github.com/XYIAN/reactAPI/projects/1)  
+-[API editor_mockapi.io](https://mockapi.io/projects/6154c94e2473940017efafcd)  
 
 #### Run Scripts (main React folder): 
 
